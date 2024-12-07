@@ -1,6 +1,6 @@
 // OpenWeatherMap API URL and API key
 let apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
-let apiKey = "&appid=f68c6225c16d37037694680f47ff74e5";
+let apiKey = "&appid=YOUR_API_KEY";
 
 // DOM elements
 const input = document.querySelector("input");
